@@ -1,6 +1,8 @@
 # vue-project
 
-This template should help get you started developing with Vue 3 in Vite.
+# Это мой учебный vue-проект в котором я реализовал список дел.
+
+# This is my Tutorial Vue-project in which I implemented the to-do list.
 
 ## Recommended IDE Setup
 
