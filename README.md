@@ -1,7 +1,5 @@
 # vue-project
 
-# Это мой учебный vue-проект в котором я реализовал список дел.
-
 # This is my Tutorial Vue-project in which I implemented the to-do list.
 
 ## Recommended IDE Setup
